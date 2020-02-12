@@ -1,0 +1,17 @@
+
+.contact-container{
+    position: relative;
+    height: 1200px;
+    width: 650px;
+}
+
+
+.contact-map, .contact-form{
+    position: relative;
+    top: 125px;
+    left: 50%;
+}
+
+.contact-form{
+    height: 600px;
+}

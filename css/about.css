@@ -1,0 +1,44 @@
+.container{
+    height: 800px;
+    width: 100%;
+    margin-top: 80px;
+}
+
+.about-box{
+    height: 700px;
+    width: 30%;
+    border: 3px solid #000;
+    float: left;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+
+.container-box, .container-video {
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.container-img{
+    width: 300px;
+    /* display: block;
+    margin: auto;
+    margin-top: 25px; */
+
+}
+
+/* .container-audio{
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+} */
+
+/* .container-video{
+    margin-top: 25px;
+
+} */
+
+.about-box p{
+    
+    margin-top: 95px;
+}
